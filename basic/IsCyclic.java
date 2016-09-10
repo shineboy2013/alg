@@ -1,3 +1,7 @@
+    /*
+    fwefwef
+    */
+    
     public boolean isLoop(Node head){
         Node slow = head;
         Node fast = head;
