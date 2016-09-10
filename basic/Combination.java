@@ -6,7 +6,7 @@ Idea:
 Example:
 xy =>x,b=x|xy,b=xy|y,b=y 
 xy =>01,10,11
-Time, Space:	O(n!), O(1)		
+Time, Space:	O(2^n), O(1)		
 */
 	
 	public void combination(char[] a){
