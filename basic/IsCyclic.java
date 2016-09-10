@@ -1,6 +1,12 @@
-    /*
-    fwefwef
-    */
+/*
+Problem: 		cyclic,loop,huilu
+Alg/struture:	
+Idea:			
+Example:
+132=>132,null=>32,1=>2,31=>null,231
+Time, Space:	O(n), O(1)		
+*/
+
     
     public boolean isLoop(Node head){
         Node slow = head;
