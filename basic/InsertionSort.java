@@ -1,5 +1,5 @@
 	/*
-	 Problem: 		SelectionSort
+	 Problem: 		InsertionSort
 	 Alg/struture:	
 	 Idea:			insert into a sorted subarray
 	 Example:
