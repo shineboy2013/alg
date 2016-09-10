@@ -1,5 +1,5 @@
 	/*
-	 Problem: 		InsertionSort,charupaixu
+	 Problem: 		Insertion Sort,charupaixu
 	 Alg/struture:	
 	 Idea:			insert into a sorted subarray
 	 Example:
