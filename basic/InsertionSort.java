@@ -1,14 +1,13 @@
 	/*
-	 Problem: 		InsertionSort
+	 Problem: 		InsertionSort,charupaixu
 	 Alg/struture:	
 	 Idea:			insert into a sorted subarray
 	 Example:
 	 [3,1,2,8,6,4]
 	 [1,3,2,8,6,4]
 	 [1,2,3,8,6,4]
-     [1,2,3,6,8,4] 4 swap2次到正确位
-     
-     Time, Space:	O(n^2), O(1)		
+	 [1,2,3,6,8,4] 4 swap2次到正确位
+	 Time, Space:		O(n^2), O(1)	
     */
 	public void insertionSort(int[] a){
 		for(int i=1;i<a.length;i++){
